@@ -19,11 +19,6 @@
   ],
   "albums": [
     {
-      "id": "10",
-      "title": "Hiking Trip",
-      "userId": 1
-    },
-    {
       "id": "906b",
       "userId": "1",
       "title": "Small Concrete Cheese"
