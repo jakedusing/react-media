@@ -29,5 +29,11 @@
       "title": "Modern Wooden Bike"
     }
   ],
-  "photos": []
+  "photos": [
+    {
+      "id": "df13",
+      "albumId": "906b",
+      "url": "https://loremflickr.com/150/150/abstract?lock=27282"
+    }
+  ]
 }
